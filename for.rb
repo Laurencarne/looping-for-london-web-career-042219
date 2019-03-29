@@ -4,5 +4,3 @@ def using_for
 	for school in checklist
 		puts "Wingardium Leviosa"
 end
-
-
